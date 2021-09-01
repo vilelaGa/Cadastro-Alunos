@@ -6,7 +6,7 @@ mydb = mysql.connector.connect(
     host="localhost",
     user="root",
     password="",
-    database="prova3bibd"
+    database=""
 )
 
 print(mydb)

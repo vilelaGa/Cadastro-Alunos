@@ -1,4 +1,4 @@
-create database prova3bibd
+create database cadastrar
 
 CREATE TABLE alunos(
     alunoID INT not null AUTO_INCREMENT,
